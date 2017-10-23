@@ -6,7 +6,6 @@ import React, {Component, PropTypes} from 'react';
 
 import {
     StyleSheet,
-    Navigator,
     Platform,
     TouchableOpacity,
     Image,

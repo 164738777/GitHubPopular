@@ -1,8 +1,6 @@
 
 import React,{Component} from 'react'
-import {
-    Navigator,
-}from 'react-native'
+import {Navigator} from 'react-native-deprecated-custom-components';
 
 import RepositoryUtils from '../expand/dao/RepositoryUtils'
 import WelcomePage from './WelcomePage'

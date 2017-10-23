@@ -3,7 +3,8 @@ package com.jph.githubpopular;
 
 import android.os.Bundle;
 
-import com.cboy.rn.splashscreen.SplashScreen;
+import org.devio.rn.splashscreen.SplashScreen;
+import org.devio.rn.splashscreen.SplashScreenReactPackage;
 import com.facebook.react.ReactActivity;
 
 public class MainActivity extends ReactActivity {
