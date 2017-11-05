@@ -58,5 +58,21 @@
 - [ ] 使用Redux
 - [ ] i18国际化
 
+## 所用三方库地址
+1. https://github.com/crazycodeboy/react-native-easy-toast
+2. https://github.com/crazycodeboy/react-native-check-box
+3. https://github.com/jsdf/react-native-htmlview
+4. https://github.com/i6mi6/react-native-parallax-scroll-view
+5. https://github.com/skv-headless/react-native-scrollable-tab-view
+6. https://github.com/deanmcpherson/react-native-sortable-listview
+7. https://github.com/crazycodeboy/react-native-splash-screen
+8. https://github.com/happypancake/react-native-tab-navigator
+
+### 小心得
+1. 第三方库升级，例如
+```
+npm i react-native-check-box@2.0.2 --save
+```
+
 
 
